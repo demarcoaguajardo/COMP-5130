@@ -1,2 +1,4 @@
 # COMP-5130
-COMP 5130 - Data Mining
+COMP-5130 Projects
+
+Data Mining
