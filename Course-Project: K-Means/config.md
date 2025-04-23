@@ -1,0 +1,16 @@
+## Configuration
+- **Number of Clusters (k)**:
+  - Directed Dataset (`CA-GrQc.txt`): 4 (My choice, up to you)
+  - Undirected Dataset (`com-dblp.ungraph.txt`): 4 (My choice, up to you)
+- **Random Seed**: 88
+- **PCA Components**: 2
+- **Python Version**: 3.9
+- **Libraries**:
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - scipy
+- **My Hardware**:
+  - 2020 MacBook Air with M1 chip
+  - macOS version: Ventura 13.4
